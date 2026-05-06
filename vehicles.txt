@@ -1,0 +1,4 @@
+1,Activa,450.0,yes
+2,Bullet 350,850.0,yes
+3,Splendor,250.0,yes
+4,CRETA,1500.0,yes
