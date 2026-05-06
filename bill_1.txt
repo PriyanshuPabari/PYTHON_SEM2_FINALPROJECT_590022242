@@ -1,0 +1,17 @@
+
+==============================
+RENTAL RECEIPT
+==============================
+Customer Name : raghav
+Phone         : 9999999999
+
+Vehicle       : activa
+Price/Day     : 500.0
+
+Rent Date     : 2026-04-21
+Return Date   : 2026-04-21
+Total Days    : 1
+
+------------------------------
+TOTAL AMOUNT  : 500.0
+==============================
